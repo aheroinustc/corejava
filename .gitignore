@@ -26,4 +26,4 @@ replay_pid*
 
 bin/
 lib/
-.plugins/*
+.plugins/
